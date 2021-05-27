@@ -27,7 +27,7 @@ This task was to find the areas with highest number of listings and plot their c
 
 ### Results
 The following map highlights the neighborhoods/areas with highest number of listings along with the pointers. 
-![](https://github.com/makam2901/Airbnb-Analysis/blob/main/Areas_with_highest_listings.png)
+![](https://github.com/makam2901/AirBnB-Analytics/blob/master/Areas_with_highest_listings.png)
 
 ## Task 2
 This task was to plot a Thematic map of the neighborhoods broken down by private room, entire home.
@@ -37,9 +37,9 @@ This task was to plot a Thematic map of the neighborhoods broken down by private
 
 ### Results
 - This is Thematic map showing the number of entire homes/apts availabe in the corresponding neighborhoods.
-![](https://github.com/makam2901/Airbnb-Analysis/blob/main/Thematic_Entire_home.png)
+![](https://github.com/makam2901/AirBnB-Analytics/blob/master/Thematic_Entire_home.png)
 - This is Thematic map showing the number of private rooms availabe in the corresponding neighborhoods.
-![](https://github.com/makam2901/Airbnb-Analysis/blob/main/Thematic_Private_Room.png)
+![](https://github.com/makam2901/AirBnB-Analytics/blob/master/Thematic_Private_Room.png)
 
 ## Task 3
 This task was just to find the top 10 hosts based on their total `calculate_host_listings_count`.
@@ -49,7 +49,7 @@ This task was just to find the top 10 hosts based on their total `calculate_host
 - And then finally I sorted the table in descending order of their total host listings count and sliced the first 10.
 ### Results
 The following data frame tell us about the top 10 hosts.
-![](https://github.com/makam2901/Airbnb-Analysis/blob/main/Top10_hosts.png)
+![](https://github.com/makam2901/AirBnB-Analytics/blob/master/Top10_hosts.png)
 
 ## Task 4
 This task was to find neighborhoods which has entire home/apt and private room at economical prices.
@@ -60,6 +60,6 @@ This task was to find neighborhoods which has entire home/apt and private room a
 - Plotted the neighborhoods near the median for both entire homes/apts and private rooms respectively.
 ### Results
 
-![](https://github.com/makam2901/Airbnb-Analysis/blob/main/Economical_Neighborhoods_Entire_Home.png)
+![](https://github.com/makam2901/AirBnB-Analytics/blob/master/Economical_Neighborhoods_Entire_Home.png)
 
-![](https://github.com/makam2901/Airbnb-Analysis/blob/main/Economical_Neighborhoods_Private_Room.png)
+![](https://github.com/makam2901/AirBnB-Analytics/blob/master/Economical_Neighborhoods_Private_Room.png)
