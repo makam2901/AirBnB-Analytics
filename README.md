@@ -45,7 +45,7 @@ This task was to plot a Thematic map of the neighborhoods broken down by private
 This task was just to find the top 10 hosts based on their total `calculate_host_listings_count`.
 ### Approach 
 - I first grouped the whole data by `['host_id', 'host_name']` to obtain unique hosts.
-- I carried out the aggregate function cum to calculate total host listings count.
+- I carried out the aggregate function `sum` to calculate total host listings count.
 - And then finally I sorted the table in descending order of their total host listings count and sliced the first 10.
 ### Results
 The following data frame tell us about the top 10 hosts.
